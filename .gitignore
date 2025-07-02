@@ -11,6 +11,7 @@ Thumbs.db
 node_modules/
 ＃如果你使用 Obsidian Git 插件，它可能会有临时文件
 .obsidian-git-log.txt
+.smart-env/
 忽略临时或备份文件
 *.swp
 *.swo
