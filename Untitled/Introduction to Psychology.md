@@ -96,3 +96,19 @@ False Beliefs and Development
 
 - Children under the age of four or five struggle to comprehend that others can hold false beliefs.
 - The Sally & Anne test illustrates this concept, where children incorrectly predict where Sally will look for her marble, indicating a lack of understanding of others' perspectives.
+
+### Explanations for development
+ Neural Changes in Development
+
+- Development involves pruning of neural connections, leading to fewer but more efficient connections in the brain.
+- The myelin sheath around neurons develops over time, affecting brain function and maturity, particularly in the frontal lobes.
+
+Cognitive Development Theories
+
+- Piaget's theory suggests that children think differently from adults, which explains their failure in tasks like conservation.
+- Susan Carey compares children's conceptual changes to scientific revolutions, indicating profound shifts in understanding as they grow.
+
+Modular View of Development
+
+- An alternative theory posits that the brain has specific modules for different cognitive functions, which develop along unique trajectories.
+- Autism is discussed as a case study for this modular view, suggesting a damaged social reasoning module in individuals with autism.
