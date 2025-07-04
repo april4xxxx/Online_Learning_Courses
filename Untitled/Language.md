@@ -26,3 +26,23 @@ Recommended Readings
 
 - Language is characterized by creativity, allowing for the generation of an infinite number of sentences.
 - Understanding language involves abstract, unconscious rules that enable comprehension and production of new sentences, rather than mere memorization.
+
+Understanding Morphology
+
+- Morphology studies the structure and formation of words, emphasizing the arbitrary nature of language as described by Ferdinand de Saussure.
+- The relationship between sounds (like "dog") and their meanings is arbitrary, allowing languages to refer to an infinite number of concepts.
+
+Morphemes vs. Words
+
+- A morpheme is the smallest unit of meaning, while words can be formed by combining morphemes.
+- Understanding morphemes helps in deciphering new words; for example, knowing "dog" and the plural morpheme "-s" allows one to understand "dogs."
+
+Language Productivity
+
+- Some languages, like German or Hebrew, exhibit more productivity in word formation through morphology compared to English.
+- The ability to create and understand new words reflects a significant cognitive capacity in humans.
+
+Vocabulary Knowledge
+
+- Estimating the number of words or morphemes an average English speaker knows is complex, but estimates suggest around 8,000 words for a high school graduate.
+- This vocabulary acquisition occurs rapidly, with individuals learning about 10 new words daily from ages one to seventeen.
