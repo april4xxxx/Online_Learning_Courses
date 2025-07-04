@@ -42,7 +42,7 @@ Preoperational Stage (2-7 years)
 
 Concrete Operational Stage (7-11 years)
 
-- Children develop logical thinking and overcome egocentrism, but still have difficulty with abstract reasoning.
+- Children develop logical thinking and overcome egocentrism, but still have difficulty with abstract reasoning. 
 - They can perform operations mentally but may not yet understand scientific reasoning or hypothetical situations.
 
 Formal Operational Stage (11 years and up)
