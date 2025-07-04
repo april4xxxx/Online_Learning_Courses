@@ -29,4 +29,23 @@ Stages of Cognitive Development
 
 - Piaget proposed that children's thinking evolves through distinct stages, each characterized by different reasoning styles.
 - His approach contrasts with other theories, as he believed children's theories of the world differ significantly from adults' understanding.
+### Four stage
+Sensorimotor Stage (0-2 years)
 
+- Infants learn through sensory experiences and motor activities, lacking reasoning and understanding of object permanence.
+- Object permanence is achieved when children realize that objects continue to exist even when out of sight.
+
+Preoperational Stage (2-7 years)
+
+- Children begin to reason and understand object permanence but are egocentric, unable to see perspectives other than their own.
+- They also struggle with the concept of conservation, believing that quantity changes with the arrangement of objects.
+
+Concrete Operational Stage (7-11 years)
+
+- Children develop logical thinking and overcome egocentrism, but still have difficulty with abstract reasoning.
+- They can perform operations mentally but may not yet understand scientific reasoning or hypothetical situations.
+
+Formal Operational Stage (11 years and up)
+
+- Individuals reach full cognitive maturity, capable of abstract and hypothetical reasoning.
+- Piaget believed that everyone progresses through these stages naturally, without the influence of external pressures.
