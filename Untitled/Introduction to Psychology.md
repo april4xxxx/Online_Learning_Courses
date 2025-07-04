@@ -23,9 +23,10 @@ Understanding Jean Piaget
 Key Concepts: Schemas, Assimilation, and Accommodation
 
 - Schemas are mental frameworks that help individuals acquire knowledge.
-- Assimilation involves integrating new information into existing schemas, while accommodation refers to modifying schemas to incorporate new experiences.
+- Assimilation involves **integrating new information into existing schemas**, while accommodation refers to **modifying schemas to incorporate new experiences**.
 
 Stages of Cognitive Development
 
 - Piaget proposed that children's thinking evolves through distinct stages, each characterized by different reasoning styles.
 - His approach contrasts with other theories, as he believed children's theories of the world differ significantly from adults' understanding.
+
