@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/Development.md",
+                "file": "Intro-to-Psychology/Development.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/Language.md",
+                "file": "Intro-to-Psychology/Language.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -237,12 +237,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,9 +265,9 @@
   },
   "active": "88d08ab5451a0c91",
   "lastOpenFiles": [
-    "Untitled/Language.md",
-    "Untitled/Development.md",
-    "Untitled",
+    "Intro-to-Psychology/Language.md",
+    "Intro-to-Psychology/Development.md",
+    "Intro-to-Psychology",
     "Untitled/dfs.md",
     "11/Untitled.md",
     "11",
