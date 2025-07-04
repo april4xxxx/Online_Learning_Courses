@@ -49,3 +49,34 @@ Formal Operational Stage (11 years and up)
 
 - Individuals reach full cognitive maturity, capable of abstract and hypothetical reasoning.
 - Piaget believed that everyone progresses through these stages naturally, without the influence of external pressures.
+### Evaluation
+Piaget's Falsifiable Claims
+
+- Piaget's theories are considered falsifiable, meaning they can be tested and potentially disproven.
+- His work has inspired generations of developmental psychologists to explore and refine his ideas.
+
+Limitations of Piaget's Theory
+
+- Theoretical Limitations: Piaget's concepts of assimilation and accommodation lack clarity on how these processes lead to developmental changes.
+- Methodological Limitations: Piaget's reliance on interviews with children may not accurately capture their cognitive abilities due to their limited verbal skills.
+
+Modern Perspectives on Infant Cognition
+
+- Recent research suggests that children, even infants, may possess greater cognitive abilities than Piaget originally proposed.
+- This shift in understanding challenges the historical view of babies as lacking intelligence, highlighting their potential for smarter thinking
+
+### Methods for studying infants
+Methods for Understanding Infant Cognition
+
+- **Neuroscientific Techniques**: Researchers use brain scanning technology to observe infants' brain activity while they engage with stimuli.
+- **Behavioral Methods**: Infants' sucking behavior and eye movements are monitored to infer their preferences and understanding, such as distinguishing between their mother's voice and a stranger's.
+
+Understanding the Physical World
+
+- **Object Permanence**: Studies show that infants can infer the existence of hidden objects, indicating they understand that objects continue to exist even when out of sight.
+- **Expectations and Surprises**: Infants look longer at unexpected events, suggesting they have expectations about how the world works, such as gravity and object solidity.
+
+Numerical and Social Understanding
+
+- **Numerical Skills**: Experiments demonstrate that infants as young as six months can perform basic addition and subtraction, indicating a rudimentary understanding of numbers.
+- **Social Preferences**: Research indicates that infants show a preference for characters that exhibit kind behavior, suggesting an innate sense of morality.
