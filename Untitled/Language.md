@@ -60,4 +60,20 @@ Examples of Sentence Generation
 Ambiguity in Language
 
 - Language can lead to ambiguity, which can be humorous or serious, as seen in jokes and legal interpretations.
-- The phrase "Let him have it" illustrates how different interpretations can have significant consequences, emphasizing the importance of understanding language nuances.ns can have significant consequences, emphasizing the importance of understanding language nuances.
+- The phrase "Let him have it" illustrates how different interpretations can have significant consequences, emphasizing the importance of understanding language nuances.
+
+**Nativism vs. Learning**
+
+- Noam Chomsky's nativism suggests that language development is innate and akin to the growth of a bodily organ.
+- While there are universal patterns in language, learning from the environment and social interactions is also crucial.
+
+**Phonology, Morphology, and Syntax**
+
+- Language acquisition involves learning phonetic distinctions (e.g., L vs. R in English), word meanings (e.g., dog vs. chien), and syntax (e.g., sentence structure).
+- Children learn these aspects through exposure rather than explicit teaching or feedback.
+
+**Stages of Language Development**
+
+- Newborns show a preference for their native language and can initially distinguish all phonemes.
+- By around one year, children begin to speak their first words and understand basic word order.
+- Language learning becomes more challenging after a critical period, with age affecting fluency in second languages.
