@@ -78,5 +78,5 @@ Understanding the Physical World
 
 Numerical and Social Understanding
 
-- **Numerical Skills**: Experiments demonstrate that infants as young as six months can perform basic addition and subtraction, indicating a rudimentary understanding of numbers.
-- **Social Preferences**: Research indicates that infants show a preference for characters that exhibit kind behavior, suggesting an innate sense of morality.
+- **Numerical Skills**: Experiments demonstrate that infants as young as six months can perform basic addition and subtraction, **indicating a rudimentary understanding of numbers**.
+- **Social Preferences**: Research indicates that infants show a **preference for characters that exhibit kind behavior**, suggesting an innate sense of morality.
