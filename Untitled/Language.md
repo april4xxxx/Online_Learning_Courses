@@ -46,3 +46,18 @@ Vocabulary Knowledge
 
 - Estimating the number of words or morphemes an average English speaker knows is complex, but estimates suggest around 8,000 words for a high school graduate.
 - This vocabulary acquisition occurs rapidly, with individuals learning about 10 new words daily from ages one to seventeen.
+
+Understanding Syntax
+
+- Syntax involves a set of symbols (words or phrases) and rules that order these symbols, allowing for the creation of sentences.
+- Wilhelm von Humboldt described this as "infinite use of finite media," highlighting the recursive nature of language.
+
+Examples of Sentence Generation
+
+- A simple language with three nouns and two verbs can create 18 unique sentences using a basic rule.
+- Introducing a second rule allows for recursion, enabling the formation of an infinite number of sentences, as demonstrated with complex examples in English.
+
+Ambiguity in Language
+
+- Language can lead to ambiguity, which can be humorous or serious, as seen in jokes and legal interpretations.
+- The phrase "Let him have it" illustrates how different interpretations can have significant consequences, emphasizing the importance of understanding language nuances.ns can have significant consequences, emphasizing the importance of understanding language nuances.
