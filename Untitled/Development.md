@@ -1,4 +1,4 @@
-## Development
+### Development
 Morality and Its Origins
 
 - Discusses two contrasting views on morality: one suggesting we are born immoral (Hobbes, Freud) and another proposing we are inherently good (Rousseau).
