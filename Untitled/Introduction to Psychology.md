@@ -80,3 +80,19 @@ Numerical and Social Understanding
 
 - **Numerical Skills**: Experiments demonstrate that infants as young as six months can perform basic addition and subtraction, **indicating a rudimentary understanding of numbers**.
 - **Social Preferences**: Research indicates that infants show a **preference for characters that exhibit kind behavior**, suggesting an innate sense of morality.
+
+### How are children different from adults?
+Understanding Children's Knowledge
+
+- Children possess significant knowledge about the physical and social world but also exhibit limitations in their understanding.
+- A key aspect of development is recognizing that children may not grasp concepts that adults find intuitive.
+
+Social Reasoning in Children
+
+- An experiment with a three-year-old, Jacob, shows that he does not understand that the "mean monkey" can be deceived about which sticker is desired.
+- In contrast, an 18-month-older child, Patrick, demonstrates an understanding that others can have different thoughts and beliefs.
+
+False Beliefs and Development
+
+- Children under the age of four or five struggle to comprehend that others can hold false beliefs.
+- The Sally & Anne test illustrates this concept, where children incorrectly predict where Sally will look for her marble, indicating a lack of understanding of others' perspectives.
