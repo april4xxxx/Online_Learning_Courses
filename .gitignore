@@ -1,5 +1,4 @@
 ＃忽略.obsidian 文件夹下的所有内容
-.obsidian/
 ＃忽略垃圾箱中的内容
 .trash/
 # macOS 系统文件
