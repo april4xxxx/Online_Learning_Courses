@@ -30,129 +30,8 @@
               "icon": "lucide-file",
               "title": "Language"
             }
-          },
-          {
-            "id": "3cf182a12289a91c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro-to-Psychology/Reading.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Reading"
-            }
-          },
-          {
-            "id": "b631d27d49913326",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro-to-Psychology/Key Individuals and Events.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Key Individuals and Events"
-            }
-          },
-          {
-            "id": "704d484bbcc19a17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro-to-Psychology/Reading.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Reading"
-            }
-          },
-          {
-            "id": "a8efc04bb2e356d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human-Centered Design - UCSD/HCI - Introduction.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "HCI - Introduction"
-            }
-          },
-          {
-            "id": "77e8f4542d340c8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human-Centered Design - UCSD/HCI - Introduction.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "HCI - Introduction"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -336,7 +215,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -360,14 +239,14 @@
       "smart-connections:Open: Smart Chat": false
     }
   },
-  "active": "77e8f4542d340c8d",
+  "active": "7bee34498a5be738",
   "lastOpenFiles": [
-    "Human-Centered Design - UCSD/Lecture-Based Questions.md",
-    "Human-Centered Design - UCSD/HCI - Introduction.md",
     "Intro-to-Psychology/Reading.md",
+    "Intro-to-Psychology/Key Individuals and Events.md",
+    "Human-Centered Design - UCSD/HCI - Introduction.md",
+    "Human-Centered Design - UCSD/Lecture-Based Questions.md",
     "Human-Centered Design - UCSD",
     "Intro-to-Psychology/Summary of this course.md",
-    "Intro-to-Psychology/Key Individuals and Events.md",
     "Intro-to-Psychology/Language.md",
     "Intro-to-Psychology/Development.md",
     "Intro-to-Psychology/Foundations.md",
