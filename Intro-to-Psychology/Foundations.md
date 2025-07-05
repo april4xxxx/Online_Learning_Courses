@@ -1,5 +1,4 @@
-Learning Objectives
-
+### The Brain
 - Understand Phineas Gage’s story and its significance
 	- Break the brain will change our life
 - Understand the “astonishing hypothesis” that our mental life is the product of our physical brain
@@ -22,11 +21,15 @@ Learning Objectives
 	- Occipital lobe: vision
 	- Temporal lobe: sound
 	- The size of the brain areas correspond to which there's motor or sensory functions. ![[Pasted image 20250705150010.png]]
-- Understand and distinguish different problems than can arise from brain damage, including apraxia 失用症, agnosia 认不出，心盲, sensory neglect 感觉不到外界, aphasia 失语症, acquired psychopathy
+- Understand and distinguish different problems than can arise from brain damage, including apraxia 失用症, agnosia 认不出，心盲, sensory neglect 感觉不到外界, aphasia 失语症, acquired psychopathy 丧失道德或者控制自己的能力
 - Understand the concept of lateralization and contralateral organization
+	- Two parts communication through corpus callosum 胼胝体
 - Distinguish the functions of the right hemisphere from the left hemisphere
-- Describe the hard problem of consciousness
-- Understand concerns about a scientific approach to psychology and different ways of addressing them.
+	- ![[Pasted image 20250705151326.png]]Sensory information is sent to opposite hemisphere crossing over in pathways leading to cortex
+	- Motor crossover: right hemisphere controls left side, left hemisphere controls right side
+	- Visual crossover: left eye to right hemisphere, right eye to left hemisphere
+
+
 - Have a basic appreciation of who Freud was and the significance of his work
 - Understand Freud’s idea of the unconscious
 - Understand the Freudian concept of the id, ego, and superego and distinguish these concepts from one another
