@@ -20,8 +20,8 @@ Prototyping in Various Contexts
 - The goal is to ask the **right questions** and **gather valuable insights** throughout the design process.
 
 ---
-Why Evaluate Designs with People?
-- You might wanna know can people figure out how to use it? 
+Questions about Evaluate Designs with People
+- Can people figure out how to use it? 
 - Or do they swear or giggle when using this interface? 
 - How does this design compare to that design? 
 - And if we change the user interface, how does that change people's behavior?
@@ -59,3 +59,4 @@ Advanced Evaluation Techniques
 - Expert Feedback: Utilizing structured formats like Heuristic Evaluation to gain insights from experienced individuals.
 - Comparative Experiments: Testing multiple design options to determine effectiveness and user experience.
 - Participant Observation: Observing users in their natural environment for long-term insights into their interactions with designs.
+

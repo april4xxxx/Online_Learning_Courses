@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HCI/HCI.md",
+                "file": "Human-Centered Design - UCSD/HCI - Introduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "HCI"
+              "title": "HCI - Introduction"
+            }
+          },
+          {
+            "id": "77e8f4542d340c8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human-Centered Design - UCSD/HCI - Introduction.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "HCI - Introduction"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -185,8 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "04cdf47109274bc9",
@@ -317,8 +340,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -338,11 +360,12 @@
       "smart-connections:Open: Smart Chat": false
     }
   },
-  "active": "a8efc04bb2e356d1",
+  "active": "77e8f4542d340c8d",
   "lastOpenFiles": [
+    "Human-Centered Design - UCSD/Lecture-Based Questions.md",
+    "Human-Centered Design - UCSD/HCI - Introduction.md",
     "Intro-to-Psychology/Reading.md",
-    "HCI/HCI.md",
-    "HCI",
+    "Human-Centered Design - UCSD",
     "Intro-to-Psychology/Summary of this course.md",
     "Intro-to-Psychology/Key Individuals and Events.md",
     "Intro-to-Psychology/Language.md",
