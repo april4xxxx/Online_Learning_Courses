@@ -1,9 +1,4 @@
-
-The rights of a prototype
-• Should not be required to be complete
-• Should be easy to change
-• Gets to retire
-
+## Prototyping
 Prototyping Overview
 - Prototyping is a method for quickly creating design approximations to gather feedback.
 - It facilitates conversations among stakeholders, including colleagues, clients, users, and designers.
@@ -18,43 +13,41 @@ Prototyping in Various Contexts
 - The goal is to ask the **right questions** and **gather valuable insights** throughout the design process.
 
 ---
-Questions about Evaluate Designs with People
-- Can people figure out how to use it? 
-- Or do they swear or giggle when using this interface? 
-- How does this design compare to that design? 
-- And if we change the user interface, how does that change people's behavior?
+##  Evaluate Designs with People
+Purpose 
+Evaluating designs with users provides **critical insights** that can lead to new ideas, **necessary changes**, and **bug fixes**. It helps designers understand complex and subjective user behaviors and **preferences**.
 
-1. Usability studies: As designers we get blinders to systems' quirks, bugs, and false assumptions. 
-	1. In the real world, people have different tasks, goals, motivations, and physical settings.
-	2. Please-thee experimenter bias: 
-	3. No comparison point.
-	4. Get feedback from people is to use a survey, lots and quick. There is difference between what people say and what they're gonna do.
-	5. Focus group.
-	6. Feedback from experts: peer critique, dogfooding, heuristic evaluation
-	7. Participant observation and comparative experiments: is a good way of gaining insights by discovering people’s actual practices, as opposed to self-report
+### Key Questions in Evaluation
+- **Usability**: Can people figure out how to use it?
+- **User Experience**: Do they swear or giggle when using the interface?
+- **Comparison**: How does this design compare to another?
+- **Impact of Changes**: If we change the UI, how does that change people's behavior?
 
-We might assume that the ordering of search results may play an important role in what people click on
+### Methods for User Evaluation
+#### Common Methods
+1. **Usability Studies**: Observing users in a controlled environment.
+    - **Challenge**: Designers often have blinders to a system's quirks. Real-world users have different tasks, goals, and motivations.
+    - **Bias**: Beware of the "please-the-experimenter" bias.
+2. **Surveys**: A quick way to get feedback from many people.
+    - **Limitation**: There is often a difference between what people say and what they do.
+3. **Focus Groups**: A small group discussion about designs.
+    - **Benefit**: Can yield diverse insights.
+    - **Risk**: Can lead to biased responses due to group dynamics.
 
-Issues to Consider
-• Reliability/Precision
-• Generalizability
-• Realism
-•Comparison
-•Work Involved
+#### Advanced & Observational Methods
+1. **Expert Feedback**: Getting feedback from experienced individuals.
+    - **Examples**: Peer critique, dogfooding [^1], heuristic evaluation.
+2. **Participant Observation**: Observing users in their natural environment to see their actual practices, as opposed to self-reported behavior. [UXCAM]
+3. **Comparative Experiments**: Testing multiple design options against each other to measure effectiveness and user experience (e.g., testing how the order of search results affects clicks).
+
+### General Issues to Consider in Evaluation
+- **Reliability/Precision**: Are the results consistent and repeatable?
+- **Generalizability**: Do the findings apply to a broader population?
+- **Realism**: How well does the evaluation setting mimic the real world?
+- **Comparison**: Is there a clear baseline or alternative for comparison?
+- **Work Involved**: What are the resource and time costs of the evaluation?
 
 
-Understanding the Value of User Evaluation
-- Evaluating designs with users provides insights that can lead to new ideas, necessary changes, and bug fixes.
-- It helps to understand user behavior and preferences, which can be complex and subjective.
 
-Common Methods for User Evaluation
-- Usability Studies: Observing users in a controlled environment to identify issues, though this may lack ecological validity.
-- Surveys: Collecting feedback from a larger audience, but responses may not always reflect actual behavior.
-- Focus Groups: Gathering a small group to discuss designs, which can yield diverse insights but may also lead to biased responses.
-
-Advanced Evaluation Techniques
-
-- Expert Feedback: Utilizing structured formats like Heuristic Evaluation to gain insights from experienced individuals.
-- Comparative Experiments: Testing multiple design options to determine effectiveness and user experience.
-- Participant Observation: Observing users in their natural environment for long-term insights into their interactions with designs.
+[^1]: "dogfooding" (also known as "eating your own dog food") is the practice where a company's employees use their own product or service in their day-to-day work.
 
