@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro-to-Psychology/Foundations.md",
+                "file": "Intro-to-Psychology/Language.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Foundations"
+              "title": "Language"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "04cdf47109274bc9",
@@ -216,12 +215,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,17 +239,18 @@
       "smart-connections:Open: Smart Chat": false
     }
   },
-  "active": "a88ab051f09c1dfa",
+  "active": "88d08ab5451a0c91",
   "lastOpenFiles": [
+    "Intro-to-Psychology/Development.md",
+    "Intro-to-Psychology/Foundations.md",
+    "Untitled",
     "AAAttachments/Pasted image 20250705151326.png",
     "AAAttachments/Pasted image 20250705150010.png",
-    "Intro-to-Psychology/Foundations.md",
     "AAAttachments/Pasted image 20250705145828.png",
     "AAAttachments/Pasted image 20250705144820.png",
     "AAAttachments/Pasted image 20250705144440.png",
     "AAAttachments",
     "Intro-to-Psychology/Language.md",
-    "Intro-to-Psychology/Development.md",
     "Gemini Chats/New Chat 1.gemini",
     "Gemini Chats/New Chat.gemini",
     "Gemini Chats",
