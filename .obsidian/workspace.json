@@ -30,8 +30,81 @@
               "icon": "lucide-file",
               "title": "Language"
             }
+          },
+          {
+            "id": "3cf182a12289a91c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro-to-Psychology/Reading.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Reading"
+            }
+          },
+          {
+            "id": "b631d27d49913326",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro-to-Psychology/Key Individuals and Events.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Key Individuals and Events"
+            }
+          },
+          {
+            "id": "704d484bbcc19a17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro-to-Psychology/Reading.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Reading"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "04cdf47109274bc9",
@@ -219,7 +293,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,8 +314,12 @@
       "smart-connections:Open: Smart Chat": false
     }
   },
-  "active": "88d08ab5451a0c91",
+  "active": "704d484bbcc19a17",
   "lastOpenFiles": [
+    "Intro-to-Psychology/Summary of this course.md",
+    "Intro-to-Psychology/Key Individuals and Events.md",
+    "Intro-to-Psychology/Reading.md",
+    "Intro-to-Psychology/Language.md",
     "Intro-to-Psychology/Development.md",
     "Intro-to-Psychology/Foundations.md",
     "Exercising-Leadership-Foundational-Principles",
@@ -250,7 +329,6 @@
     "AAAttachments/Pasted image 20250705144820.png",
     "AAAttachments/Pasted image 20250705144440.png",
     "AAAttachments",
-    "Intro-to-Psychology/Language.md",
     "Gemini Chats/New Chat 1.gemini",
     "Gemini Chats/New Chat.gemini",
     "Gemini Chats",
