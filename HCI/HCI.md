@@ -33,8 +33,16 @@ Why Evaluate Designs with People?
 	4. Get feedback from people is to use a survey, lots and quick. There is difference between what people say and what they're gonna do.
 	5. Focus group.
 	6. Feedback from experts: peer critique, dogfooding, heuristic evaluation
-	7. 
-2. 
+	7. Participant observation and comparative experiments: is a good way of gaining insights by discovering people’s actual practices, as opposed to self-report
+
+We might assume that the ordering of search results may play an important role in what people click on
+
+Issues to Consider
+• Reliability/Precision
+• Generalizability
+• Realism
+•Comparison
+•Work Involved
 
 
 Understanding the Value of User Evaluation
