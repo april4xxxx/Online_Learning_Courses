@@ -237,7 +237,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -263,7 +263,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88d08ab5451a0c91",
+  "active": "bd1a9ba8f97502cf",
   "lastOpenFiles": [
     "Intro-to-Psychology/Language.md",
     "Intro-to-Psychology/Development.md",
