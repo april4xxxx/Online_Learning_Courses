@@ -7,8 +7,6 @@ The rights of a prototype
 Prototyping Overview
 - Prototyping is a method for quickly creating design approximations to gather feedback.
 - It facilitates conversations among stakeholders, including colleagues, clients, users, and designers.
-
-Types of Prototypes
 - Prototypes can vary in form and purpose, helping to **explore different design questions**.
 
 Iterative Design Process
