@@ -11,10 +11,24 @@
             "id": "affece8a09adc152",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Intro-to-Psychology/Foundations.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Foundations"
             }
           }
         ]
@@ -74,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "04cdf47109274bc9",
@@ -177,20 +192,6 @@
             }
           },
           {
-            "id": "fbcb73d08ab5b245",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
             "id": "a88ab051f09c1dfa",
             "type": "leaf",
             "state": {
@@ -201,11 +202,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,10 +227,15 @@
       "smart-connections:Open: Smart Chat": false
     }
   },
-  "active": "88d08ab5451a0c91",
+  "active": "affece8a09adc152",
   "lastOpenFiles": [
-    "Intro-to-Psychology/Language.md",
+    "AAAttachments/Pasted image 20250705150010.png",
     "Intro-to-Psychology/Foundations.md",
+    "AAAttachments/Pasted image 20250705145828.png",
+    "AAAttachments/Pasted image 20250705144820.png",
+    "AAAttachments/Pasted image 20250705144440.png",
+    "AAAttachments",
+    "Intro-to-Psychology/Language.md",
     "Intro-to-Psychology/Development.md",
     "Gemini Chats/New Chat 1.gemini",
     "Gemini Chats/New Chat.gemini",

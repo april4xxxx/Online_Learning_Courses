@@ -5,13 +5,24 @@ Learning Objectives
 - Understand the “astonishing hypothesis” that our mental life is the product of our physical brain
 - Understand Descartes’ concept of dualism 二元论, identify the strengths of this view, and then explain why modern scientists have abandoned it
 	- I think therefore I am.
-- Understand the different parts and functions of a neuron
+- Understand the different parts and functions of a neuron![[Pasted image 20250705144440.png]]
+	- Axon 轴突
+	- Myelin sheath 髓鞘
+	- Dentrite 树突
 - Know the different types of neurons and their specific
 - Understand how neurons communicate with one another
-- Explain in what ways the human mind is wired up differently from the computers we use in our everyday lives.
+	- Gap between axon terminal and dentrite is synapse 突触![[Pasted image 20250705144820.png]]
 - Know about the different subcortical structures and what they do
-- Know the different lobes of the cerebral cortex and their functions
-- Understand and distinguish different problems than can arise from brain damage, including apraxia, agnosia, sensory neglect, aphasia, acquired psychopathy
+	- Spine 脊髓
+	- In the center
+	- Medulla 髓质 autonomic functions: heartbeat, breathing, blood pressure, swallowing, etc.
+	- Cerebellum 小脑 complicated skilled motor movements, mental and sensory tasks, automation of tasks
+	- Hypothalamus 下丘脑 hunger, thirst, sleep, body temperature, regulation of homeostatic functions
+- Know the different lobes of the cerebral cortex and their functions![[Pasted image 20250705145828.png]]
+	- Occipital lobe: vision
+	- Temporal lobe: sound
+	- The size of the brain areas correspond to which there's motor or sensory functions. ![[Pasted image 20250705150010.png]]
+- Understand and distinguish different problems than can arise from brain damage, including apraxia 失用症, agnosia 认不出，心盲, sensory neglect 感觉不到外界, aphasia 失语症, acquired psychopathy
 - Understand the concept of lateralization and contralateral organization
 - Distinguish the functions of the right hemisphere from the left hemisphere
 - Describe the hard problem of consciousness
