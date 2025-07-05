@@ -200,9 +200,23 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "058f9f5ffd7f05ac",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -227,7 +241,7 @@
       "smart-connections:Open: Smart Chat": false
     }
   },
-  "active": "affece8a09adc152",
+  "active": "a88ab051f09c1dfa",
   "lastOpenFiles": [
     "AAAttachments/Pasted image 20250705151326.png",
     "AAAttachments/Pasted image 20250705150010.png",

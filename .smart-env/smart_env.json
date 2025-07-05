@@ -959,7 +959,8 @@
     "muted": {
       "embedding_complete": true,
       "saving_collection": true,
-      "done_import": true
+      "done_import": true,
+      "done_initial_scan": true
     }
   },
   "version": ""
