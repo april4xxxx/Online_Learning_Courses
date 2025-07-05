@@ -243,9 +243,9 @@
       "apiKey": "AIzaSyAa7YYmsJfouxwvRjnx9CHSf6nvp4xfqOk",
       "isEmbeddingModel": false,
       "capabilities": [
-        "websearch",
         "reasoning",
-        "vision"
+        "vision",
+        "websearch"
       ],
       "stream": true
     }

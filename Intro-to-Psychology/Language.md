@@ -8,33 +8,29 @@ Defining Language
 - The lecture emphasizes a specific definition of language, referring to systems like English, Dutch, and Mandarin, rather than broader forms of communication.
 - Clarity in terminology is important for scientific discussions about language learning and brain encoding.
 
-Recommended Readings
+Language Universality
 
-- Two books are recommended: "The Language Instinct" by Steven Pinker, which introduces the science of language, and "The Power of Babel" by John McWhorter, which explores the historical evolution of language.
-
-**Language Universality**
-
-- All human societies possess language, indicating that it is a universal trait among humans.
+- All human societies possess language, indicating that it is a **universal trait** among humans.
 - Unlike other human skills, such as baking or writing, language is **instinctive** and **natural**, as suggested by Charles Darwin.
 
-**Creolization and Language Development**
+Creolization and Language Development
 
-- Creolization occurs when children exposed to a pidgin language transform it into a fully developed language, known as a creole.
-- This phenomenon highlights the innate ability of children to create complex language systems from rudimentary communication.
+- Creolization occurs when children exposed to a pidgin 混杂语言 language transform it into a fully developed language, known as a creole.
+- This phenomenon highlights the innate ability of children to create complex language systems from **rudimentary** communication.
 
-**Cognitive Aspects of Language**
+Cognitive Aspects of Language
 
 - Language is characterized by creativity, allowing for the generation of an infinite number of sentences.
 - Understanding language involves abstract, unconscious rules that enable comprehension and production of new sentences, rather than mere memorization.
 
-Understanding Morphology
+Understanding Morphology 
 
-- Morphology studies the structure and formation of words, emphasizing the arbitrary nature of language as described by Ferdinand de Saussure.
+- Morphology **studies the structure and formation of words**, emphasizing the arbitrary nature of language as described by Ferdinand de Saussure.
 - The relationship between sounds (like "dog") and their meanings is arbitrary, allowing languages to refer to an infinite number of concepts.
 
 Morphemes vs. Words
 
-- A morpheme is the smallest unit of meaning, while words can be formed by combining morphemes.
+- A morpheme is the **smallest unit of meaning**, while words can be formed by combining morphemes.
 - Understanding morphemes helps in deciphering new words; for example, knowing "dog" and the plural morpheme "-s" allows one to understand "dogs."
 
 Language Productivity
@@ -52,28 +48,18 @@ Understanding Syntax
 - Syntax involves a set of symbols (words or phrases) and rules that order these symbols, allowing for the creation of sentences.
 - Wilhelm von Humboldt described this as "infinite use of finite media," highlighting the recursive nature of language.
 
-Examples of Sentence Generation
+Nativism vs. Learning
 
-- A simple language with three nouns and two verbs can create 18 unique sentences using a basic rule.
-- Introducing a second rule allows for recursion, enabling the formation of an infinite number of sentences, as demonstrated with complex examples in English.
-
-Ambiguity in Language
-
-- Language can lead to ambiguity, which can be humorous or serious, as seen in jokes and legal interpretations.
-- The phrase "Let him have it" illustrates how different interpretations can have significant consequences, emphasizing the importance of understanding language nuances.
-
-**Nativism vs. Learning**
-
-- Noam Chomsky's nativism suggests that language development is innate and akin to the growth of a bodily organ.
+- Noam Chomsky's nativism suggests that language development is **innate** and akin to the growth of a bodily organ.
 - While there are universal patterns in language, learning from the environment and social interactions is also crucial.
 
-**Phonology, Morphology, and Syntax**
+Phonology, Morphology, and Syntax
 
 - Language acquisition involves learning phonetic distinctions (e.g., L vs. R in English), word meanings (e.g., dog vs. chien), and syntax (e.g., sentence structure).
 - Children learn these aspects through exposure rather than explicit teaching or feedback.
 
-**Stages of Language Development**
+Stages of Language Development
 
-- Newborns show a preference for their native language and can initially distinguish all phonemes.
+- Newborns show a **preference for their native language** and can initially distinguish all phonemes.
 - By around one year, children begin to speak their first words and understand basic word order.
 - Language learning becomes more challenging after a critical period, with age affecting fluency in second languages.
