@@ -337,5 +337,6 @@
   "enableCustomPromptTemplating": true,
   "allowAdditionalContext": true,
   "enableWordCompletion": false,
-  "suggestedDefaultCommands": true
+  "suggestedDefaultCommands": true,
+  "lastDismissedVersion": "2.9.3"
 }
