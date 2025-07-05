@@ -1,0 +1,42 @@
+Learning Objectives
+
+- Understand Phineas Gage’s story and its significance
+	- Break the brain will change our life
+- Understand the “astonishing hypothesis” that our mental life is the product of our physical brain
+- Understand Descartes’ concept of dualism 二元论, identify the strengths of this view, and then explain why modern scientists have abandoned it
+	- I think therefore I am.
+- Understand the different parts and functions of a neuron
+- Know the different types of neurons and their specific
+- Understand how neurons communicate with one another
+- Explain in what ways the human mind is wired up differently from the computers we use in our everyday lives.
+- Know about the different subcortical structures and what they do
+- Know the different lobes of the cerebral cortex and their functions
+- Understand and distinguish different problems than can arise from brain damage, including apraxia, agnosia, sensory neglect, aphasia, acquired psychopathy
+- Understand the concept of lateralization and contralateral organization
+- Distinguish the functions of the right hemisphere from the left hemisphere
+- Describe the hard problem of consciousness
+- Understand concerns about a scientific approach to psychology and different ways of addressing them.
+- Have a basic appreciation of who Freud was and the significance of his work
+- Understand Freud’s idea of the unconscious
+- Understand the Freudian concept of the id, ego, and superego and distinguish these concepts from one another
+- Understand Freud’s psychosexual stages
+- Understand the Freudian idea of the Oedipus Complex
+- Understand Freud’s different defense mechanisms and distinguish them from one another
+- Understand Freud’s concepts of hysteria and catharsis
+- Understand the notion of falsifiability and how to distinguish falsifiable theories from unfalsifiable ones
+- Apply the concept of falsifiability to Freud’s psychodynamic theories
+- Identify components of Freud’s theory that are still considered valuable today
+- Understand the three main claims of behaviorism
+- Understand habituation and its role in learning
+- Understand the logic of classical conditioning and its role in learning
+- Distinguish between the different components of classical conditioning, including unconditioned stimulus, unconditioned response, conditioned stimulus, and conditioned response
+- Distinguish between reinforced and unreinforced trials
+- Know the best way to pair up the conditioned stimulus and the unconditioned stimulus in order to ensure the best learning
+- Explain instrumental conditioning and its role in learning
+- Understand the “Law of Effect” and the partial reinforcement effect
+- Understand positive reinforcement, negative reinforcement and punishment
+- Understand and be able to give an example of how instrumental and classical conditioning can be combined
+- Understand different schedules of reinforcement (i.e., fixed versus variable, and interval versus ratio) and distinguish between these different schedules
+- Understand the main challenges to behaviorism
+- Understand the concept of latent learning and why it is a problem for behaviorism
+- Articulate Noam Chomsky primary criticisms of behaviorism
