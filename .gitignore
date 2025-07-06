@@ -1,6 +1,9 @@
 # 忽略 Obsidian 的 UI 状态和缓存文件
 .obsidian/workspace.json
 .obsidian/app.json
+.obsidian/themes
+.obsidian/appearance.json
+.obsidian/workspace.json
 
 # 忽略插件和代码片段（如果你不想同步它们）
 .obsidian/plugins/
@@ -12,8 +15,8 @@ Thumbs.db
 
 # 忽略 Obsidian Sync 产生的文件（如果你用官方同步）
 .obsidian/obsidian-sync.json
+.smart-env
+.AAAttachments
 
 # 忽略临时文件
 ~$*
-.smart-env
-.AAAttachments
