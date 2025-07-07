@@ -33,6 +33,31 @@ Applications and Implications
 - Classical conditioning can explain various behaviors, including the development of phobias 恐惧 and cravings.
 - It also has therapeutic 治疗 applications, such as systematic desensitization 脱敏 for treating phobias by associating feared stimuli with relaxation techniques.
 
+Instrumental Conditioning Overview
+
+- It involves learning which actions lead to rewards or punishments, shaping future behavior based on these outcomes.
+- Unlike classical conditioning, which is passive, operant conditioning is active and based on individual actions.
+
+Key Theorists and Concepts
+
+- Edward Thorndike established the theoretical foundations, demonstrating that animals learn through trial and error rather than sudden insight, exemplified by his puzzle box experiments with cats.
+- Thorndike's Law of Effect states that behaviors followed by rewards are more likely to be repeated, while those followed by punishment are less likely.
+
+Reinforcement and Shaping
+
+- B.F. Skinner expanded on Thorndike's work, introducing reinforcement types: positive (adding a desirable stimulus) and negative (removing an aversive stimulus).
+- Skinner's shaping technique involves rewarding successive approximations of a desired behavior, gradually guiding the subject toward the target action.
+
+Schedules of Reinforcement
+
+- Different reinforcement schedules (fixed vs. variable, ratio vs. interval) affect learning and behavior persistence.
+- Partial reinforcement can lead to more enduring behaviors, as subjects may continue the behavior in anticipation of future rewards.
+
+Application of Behaviorism
+
+- The principles of operant conditioning can be applied to both animal training and human behavior modification, suggesting that society could use these techniques to promote positive behaviors and reduce negative ones.
+
+
 - Understand the logic of classical conditioning and its role in learning
 - Distinguish between the different components of classical conditioning, including unconditioned stimulus, unconditioned response, conditioned stimulus, and conditioned response
 - Distinguish between reinforced and unreinforced trials
