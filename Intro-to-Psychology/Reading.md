@@ -1,4 +1,4 @@
-###  [History of Psychology \| Noba](https://nobaproject.com/modules/history-of-psychology#content) 
+### [History of Psychology \| Noba](https://nobaproject.com/modules/history-of-psychology#content) 
 empiricism from John Locke
 Helmholtz’s neural studies
 Wilhelm Wundt, German physician, physiologist, and philosopher
@@ -24,5 +24,3 @@ Wilhelm Wundt, German physician, physiologist, and philosopher
 
 **Influence on Cognitive Psychology:**
 - Cognitive psychology revived the study of mental processes, but with scientific methods. The structuralists’ focus on the elements of thought and the functionalists’ interest in mental processes both contributed to the development of cognitive psychology, which studies how people perceive, remember, and solve problems.
-
-### 
