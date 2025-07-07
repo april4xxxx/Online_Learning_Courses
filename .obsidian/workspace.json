@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro-to-Psychology/Summary of this course.md",
+                "file": "Intro-to-Psychology/Skinner.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Summary of this course"
+              "title": "Skinner"
             }
           },
           {
@@ -240,11 +240,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,20 +265,21 @@
       "smart-connections:Open: Smart Chat": false
     }
   },
-  "active": "7bee34498a5be738",
+  "active": "affece8a09adc152",
   "lastOpenFiles": [
+    "AAAttachments/Pasted image 20250707171317.png",
     "Intro-to-Psychology/Language.md",
+    "Intro-to-Psychology/1. Foundations.md",
     "Intro-to-Psychology/Skinner.md",
     "Intro-to-Psychology/Freud.md",
+    "Intro-to-Psychology/Summary of this course.md",
     "Intro-to-Psychology/Key Individuals and Events.md",
     "Intro-to-Psychology/Development.md",
-    "Intro-to-Psychology/1. Foundations.md",
     "Intro-to-Psychology/Reading.md",
     "Intro-to-Psychology/Pioneer.md",
     "Human-Centered Design - UCSD/HCI - Introduction.md",
     "Human-Centered Design - UCSD/Lecture-Based Questions.md",
     "Human-Centered Design - UCSD",
-    "Intro-to-Psychology/Summary of this course.md",
     "Exercising-Leadership-Foundational-Principles",
     "AAAttachments/Pasted image 20250705151326.png",
     "AAAttachments/Pasted image 20250705150010.png",
