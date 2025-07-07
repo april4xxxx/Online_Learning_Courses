@@ -59,6 +59,3 @@ Behaviorism's Core Claims
 Legacy of Behaviorism
 - Despite its shortcomings, behaviorism has contributed to understanding learning mechanisms like habituation and conditioning.
 - It has provided valuable tools for training and teaching, but it underestimates the complexity of human mental life.
-- Understand the main challenges to behaviorism
-- Understand the concept of latent learning and why it is a problem for behaviorism
-- Articulate Noam Chomsky primary criticisms of behaviorism
