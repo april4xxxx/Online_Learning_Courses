@@ -1,0 +1,10 @@
+- Have a basic appreciation of who Freud was and the significance of his work
+- Understand Freud’s idea of the unconscious
+- Understand the Freudian concept of the id, ego, and superego and distinguish these concepts from one another
+- Understand Freud’s psychosexual stages
+- Understand the Freudian idea of the Oedipus Complex
+- Understand Freud’s different defense mechanisms and distinguish them from one another
+- Understand Freud’s concepts of hysteria and catharsis
+- Understand the notion of falsifiability and how to distinguish falsifiable theories from unfalsifiable ones
+- Apply the concept of falsifiability to Freud’s psychodynamic theories
+- Identify components of Freud’s theory that are still considered valuable today
