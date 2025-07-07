@@ -1,1 +1,2 @@
 [[Freud]] 
+[[Skinner]] 

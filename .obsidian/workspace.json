@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro-to-Psychology/1. Foundations.md",
+                "file": "Intro-to-Psychology/Summary of this course.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1. Foundations"
+              "title": "Summary of this course"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "Development"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "04cdf47109274bc9",
@@ -240,7 +240,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -264,14 +264,15 @@
       "smart-connections:Open: Smart Chat": false
     }
   },
-  "active": "9aba21785db2c5eb",
+  "active": "7bee34498a5be738",
   "lastOpenFiles": [
-    "Intro-to-Psychology/1. Foundations.md",
+    "Intro-to-Psychology/Language.md",
+    "Intro-to-Psychology/Skinner.md",
     "Intro-to-Psychology/Freud.md",
     "Intro-to-Psychology/Key Individuals and Events.md",
     "Intro-to-Psychology/Development.md",
+    "Intro-to-Psychology/1. Foundations.md",
     "Intro-to-Psychology/Reading.md",
-    "Intro-to-Psychology/Language.md",
     "Intro-to-Psychology/Pioneer.md",
     "Human-Centered Design - UCSD/HCI - Introduction.md",
     "Human-Centered Design - UCSD/Lecture-Based Questions.md",
