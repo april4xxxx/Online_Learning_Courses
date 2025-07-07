@@ -48,7 +48,7 @@ Reinforcement and Shaping
 Schedules of Reinforcement
 - Different reinforcement schedules (fixed vs. variable, ratio vs. interval) affect learning and behavior persistence.
 - Partial reinforcement can lead to more enduring behaviors, as subjects may continue the behavior in anticipation of future rewards.
-
+![[Pasted image 20250707195607.png]]
 Application of Behaviorism
 - The principles of operant conditioning can be applied to both animal training and human behavior modification, suggesting that society could use these techniques to promote positive behaviors and reduce negative ones.
 
