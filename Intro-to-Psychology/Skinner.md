@@ -56,10 +56,6 @@ Behaviorism's Core Claims
 - Behaviorists argue that there is no innate knowledge and that learning mechanisms apply universally across species.
 - They promote anti-mentalism, suggesting mental processes can be explained solely through stimulus-response principles.
 
-Critiques of Behaviorism
-- Evidence shows that different animals have unique learning mechanisms, contradicting behaviorist claims.
-- Noam Chomsky's critique of B.F. Skinner's work highlights that behaviorism fails to adequately explain complex human behaviors, such as creativity and self-talk.
-
 Legacy of Behaviorism
 - Despite its shortcomings, behaviorism has contributed to understanding learning mechanisms like habituation and conditioning.
 - It has provided valuable tools for training and teaching, but it underestimates the complexity of human mental life.
