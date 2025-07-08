@@ -1,4 +1,3 @@
-
 Freud's Character and Controversy
 - Freud is recognized as a **pivotal intellectual figure** but is also disliked for his ambitious and sometimes **brutal character**.
 - His views challenged the perception of humans as rational beings, particularly regarding sexuality and morality.

@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Skinner"
             }
+          },
+          {
+            "id": "ec296b3eeb21826b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro-to-Psychology/4. Cognition.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "4. Cognition"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "04cdf47109274bc9",
@@ -216,11 +240,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,17 +265,18 @@
       "smart-connections:Open: Smart Chat": false
     }
   },
-  "active": "4549b757ea0f978f",
+  "active": "ec296b3eeb21826b",
   "lastOpenFiles": [
-    "AAAttachments/Pasted image 20250707195607.png",
-    "Intro-to-Psychology/Skinner.md",
-    "Intro-to-Psychology/Development.md",
-    "AAAttachments/Pasted image 20250707171317.png",
-    "Intro-to-Psychology/Language.md",
-    "Intro-to-Psychology/1. Foundations.md",
+    "Intro-to-Psychology/3. Language.md",
     "Intro-to-Psychology/Freud.md",
-    "Intro-to-Psychology/Summary of this course.md",
+    "Intro-to-Psychology/2. Development.md",
+    "Intro-to-Psychology/4. Cognition.md",
+    "Intro-to-Psychology/1. Foundations.md",
     "Intro-to-Psychology/Key Individuals and Events.md",
+    "Intro-to-Psychology/Summary of this course.md",
+    "Intro-to-Psychology/Skinner.md",
+    "AAAttachments/Pasted image 20250707195607.png",
+    "AAAttachments/Pasted image 20250707171317.png",
     "Intro-to-Psychology/Reading.md",
     "Intro-to-Psychology/Pioneer.md",
     "Human-Centered Design - UCSD/HCI - Introduction.md",

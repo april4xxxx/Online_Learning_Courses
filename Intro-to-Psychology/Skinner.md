@@ -1,5 +1,3 @@
-
-
 Behaviorism Overview
 - Skinner built upon existing ideas in psychology, particularly those of John Watson, to develop a comprehensive theory known as Behaviorism.
 - He emphasized that all human behavior is shaped by experiences rather than innate traits, suggesting that individuals are highly **adaptable**.
