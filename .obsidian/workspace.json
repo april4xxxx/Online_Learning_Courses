@@ -241,12 +241,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,7 +265,7 @@
       "smart-connections:Open: Smart Chat": false
     }
   },
-  "active": "ec296b3eeb21826b",
+  "active": "4549b757ea0f978f",
   "lastOpenFiles": [
     "AAAttachments/Pasted image 20250708172730.png",
     "Intro-to-Psychology/4. Cognition.md",
