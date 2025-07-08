@@ -216,12 +216,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,7 +240,7 @@
       "smart-connections:Open: Smart Chat": false
     }
   },
-  "active": "08b6c40000b95c6e",
+  "active": "4549b757ea0f978f",
   "lastOpenFiles": [
     "AAAttachments/Pasted image 20250707195607.png",
     "Intro-to-Psychology/Skinner.md",
