@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro-to-Psychology/Skinner.md",
+                "file": "Intro-to-Psychology/Key Individuals and Events/Skinner.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Skinner"
             }
-          },
-          {
-            "id": "ec296b3eeb21826b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro-to-Psychology/4. Cognition.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "4. Cognition"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "04cdf47109274bc9",
@@ -245,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,17 +240,18 @@
       "smart-connections:Open: Smart Chat": false
     }
   },
-  "active": "4549b757ea0f978f",
+  "active": "08b6c40000b95c6e",
   "lastOpenFiles": [
-    "AAAttachments/Pasted image 20250708172730.png",
+    "Intro-to-Psychology/Key Individuals and Events",
     "Intro-to-Psychology/4. Cognition.md",
+    "AAAttachments/Pasted image 20250708172730.png",
     "Intro-to-Psychology/3. Language.md",
-    "Intro-to-Psychology/Freud.md",
+    "Intro-to-Psychology/Key Individuals and Events/Freud.md",
     "Intro-to-Psychology/2. Development.md",
     "Intro-to-Psychology/1. Foundations.md",
     "Intro-to-Psychology/Key Individuals and Events.md",
     "Intro-to-Psychology/Summary of this course.md",
-    "Intro-to-Psychology/Skinner.md",
+    "Intro-to-Psychology/Key Individuals and Events/Skinner.md",
     "AAAttachments/Pasted image 20250707195607.png",
     "AAAttachments/Pasted image 20250707171317.png",
     "Intro-to-Psychology/Reading.md",
