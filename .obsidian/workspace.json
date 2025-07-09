@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro-to-Psychology/Key Individuals and Events/Skinner.md",
+                "file": "Intro-to-Psychology/1. Foundations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Skinner"
+              "title": "1. Foundations"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "04cdf47109274bc9",
@@ -215,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -242,6 +243,7 @@
   },
   "active": "08b6c40000b95c6e",
   "lastOpenFiles": [
+    "Intro-to-Psychology/Key Individuals and Events/Skinner.md",
     "Intro-to-Psychology/Key Individuals and Events",
     "Intro-to-Psychology/4. Cognition.md",
     "AAAttachments/Pasted image 20250708172730.png",
@@ -251,7 +253,6 @@
     "Intro-to-Psychology/1. Foundations.md",
     "Intro-to-Psychology/Key Individuals and Events.md",
     "Intro-to-Psychology/Summary of this course.md",
-    "Intro-to-Psychology/Key Individuals and Events/Skinner.md",
     "AAAttachments/Pasted image 20250707195607.png",
     "AAAttachments/Pasted image 20250707171317.png",
     "Intro-to-Psychology/Reading.md",
@@ -278,7 +279,6 @@
     "Intro_to_Psychology/Intro_to_Psychology/Untitled.md",
     "Intro_to_Psychology/hi.md",
     "hi.md",
-    "Intro_to_Psychology/Intro_to_Psychology",
     "Welcome.md",
     "README.md",
     "Untitled 1.md"
