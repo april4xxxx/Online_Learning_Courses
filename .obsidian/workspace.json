@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "08b6c40000b95c6e",
+            "id": "60d5fe0d176faca6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro-to-Psychology/1. Foundations.md",
+                "file": "MySQL/MySQL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1. Foundations"
+              "title": "MySQL"
             }
           }
         ]
@@ -241,10 +241,12 @@
       "smart-connections:Open: Smart Chat": false
     }
   },
-  "active": "08b6c40000b95c6e",
+  "active": "60d5fe0d176faca6",
   "lastOpenFiles": [
-    "Intro-to-Psychology/participant observation.md",
     "Intro-to-Psychology/1. Foundations.md",
+    "MySQL/MySQL.md",
+    "MySQL",
+    "Intro-to-Psychology/participant observation.md",
     "Intro-to-Psychology/Key Individuals and Events/Skinner.md",
     "Intro-to-Psychology/Key Individuals and Events",
     "Intro-to-Psychology/4. Cognition.md",
@@ -276,7 +278,6 @@
     "11/Untitled.md",
     "11",
     "Intro_to_Psychology_Yale/Untitled.md",
-    "Intro_to_Psychology_Yale",
     "Intro_to_Psychology/Intro_to_Psychology/Untitled.md",
     "Intro_to_Psychology/hi.md",
     "hi.md",
