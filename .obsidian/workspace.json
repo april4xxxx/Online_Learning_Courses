@@ -11,10 +11,38 @@
             "id": "60d5fe0d176faca6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Intro-to-Psychology/2. Development.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2. Development"
+            }
+          },
+          {
+            "id": "babec4431400726a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://nobaproject.com/modules/research-methods-in-developmental-psychology",
+                "title": "Research Methods in Developmental Psychology | Noba",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Research Methods in Developmental Psychology | Noba"
             }
           }
         ]
@@ -226,9 +254,11 @@
       "smart-connections:Open: Smart Chat": false
     }
   },
-  "active": "a88ab051f09c1dfa",
+  "active": "60d5fe0d176faca6",
   "lastOpenFiles": [
+    "Intro-to-Psychology/2. Development.md",
     "Intro-to-Psychology/1. Foundations.md",
+    "Intro-to-Psychology/3. Language.md",
     "MySQL/MySQL.md",
     "MySQL",
     "Intro-to-Psychology/participant observation.md",
@@ -236,9 +266,7 @@
     "Intro-to-Psychology/Key Individuals and Events",
     "Intro-to-Psychology/4. Cognition.md",
     "AAAttachments/Pasted image 20250708172730.png",
-    "Intro-to-Psychology/3. Language.md",
     "Intro-to-Psychology/Key Individuals and Events/Freud.md",
-    "Intro-to-Psychology/2. Development.md",
     "Intro-to-Psychology/Key Individuals and Events.md",
     "Intro-to-Psychology/Summary of this course.md",
     "AAAttachments/Pasted image 20250707195607.png",
