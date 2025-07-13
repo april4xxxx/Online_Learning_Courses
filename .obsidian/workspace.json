@@ -4,45 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9c7bf5717c2e8306",
+        "id": "0b2d77129f858e67",
         "type": "tabs",
         "children": [
           {
-            "id": "60d5fe0d176faca6",
+            "id": "a3a5553f43986d24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro-to-Psychology/2. Development.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2. Development"
-            }
-          },
-          {
-            "id": "babec4431400726a",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://nobaproject.com/modules/research-methods-in-developmental-psychology",
-                "title": "Research Methods in Developmental Psychology | Noba",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Research Methods in Developmental Psychology | Noba"
+              "title": "New tab"
             }
           }
         ]
@@ -255,9 +227,10 @@
       "smart-connections:Open: Smart Chat": false
     }
   },
-  "active": "60d5fe0d176faca6",
+  "active": "a3a5553f43986d24",
   "lastOpenFiles": [
     "Intro-to-Psychology/2. Development.md",
+    "AAAttachments/Pasted image 20250711181829.png",
     "Intro-to-Psychology/1. Foundations.md",
     "Intro-to-Psychology/3. Language.md",
     "MySQL/MySQL.md",
