@@ -11,10 +11,24 @@
             "id": "a3a5553f43986d24",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Intro-to-Psychology/2. Development.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2. Development"
             }
           }
         ]
@@ -74,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5,
-    "collapsed": true
+    "width": 215.5
   },
   "right": {
     "id": "04cdf47109274bc9",
@@ -202,7 +215,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -227,8 +240,9 @@
       "smart-connections:Open: Smart Chat": false
     }
   },
-  "active": "a3a5553f43986d24",
+  "active": "a88ab051f09c1dfa",
   "lastOpenFiles": [
+    "Intro-to-Psychology/4. Cognition.md",
     "Intro-to-Psychology/2. Development.md",
     "AAAttachments/Pasted image 20250711181829.png",
     "Intro-to-Psychology/1. Foundations.md",
@@ -238,7 +252,6 @@
     "Intro-to-Psychology/participant observation.md",
     "Intro-to-Psychology/Key Individuals and Events/Skinner.md",
     "Intro-to-Psychology/Key Individuals and Events",
-    "Intro-to-Psychology/4. Cognition.md",
     "AAAttachments/Pasted image 20250708172730.png",
     "Intro-to-Psychology/Key Individuals and Events/Freud.md",
     "Intro-to-Psychology/Key Individuals and Events.md",
