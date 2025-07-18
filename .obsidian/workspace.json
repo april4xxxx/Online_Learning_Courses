@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro-to-Psychology/2. Development.md",
+                "file": "Intro-to-Psychology/3. Language.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. Development"
+              "title": "3. Language"
             }
           }
         ]
@@ -240,10 +240,10 @@
       "smart-connections:Open: Smart Chat": false
     }
   },
-  "active": "a88ab051f09c1dfa",
+  "active": "a3a5553f43986d24",
   "lastOpenFiles": [
-    "Intro-to-Psychology/4. Cognition.md",
     "Intro-to-Psychology/2. Development.md",
+    "Intro-to-Psychology/4. Cognition.md",
     "AAAttachments/Pasted image 20250711181829.png",
     "Intro-to-Psychology/1. Foundations.md",
     "Intro-to-Psychology/3. Language.md",
