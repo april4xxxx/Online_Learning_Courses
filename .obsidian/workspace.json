@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5,
-    "collapsed": true
+    "width": 215.5
   },
   "right": {
     "id": "04cdf47109274bc9",
@@ -241,7 +240,7 @@
       "smart-connections:Open: Smart Chat": false
     }
   },
-  "active": "a3a5553f43986d24",
+  "active": "a88ab051f09c1dfa",
   "lastOpenFiles": [
     "AAAttachments/5.决策树——每次选一边.md",
     "Intro-to-Psychology/3. Language.md",
